@@ -1,43 +1,20 @@
-.col1{
-    height:100px;
-
-    background-color: blue;
-    color: blue;
+.box{
+    height: 70px;
+    background-color: rgb(179, 125, 230);
 }
-.col2{
-    height: 100px;
-    background-color: rgb(255, 94, 0);
-    color:rgb(255, 94, 0) ;
+.box-card{
+    height: 70px;
+    background-color: rgb(179, 125, 230);
 }
-.col3{
-    height: 300px;
-    background-color: blue;
-    color: blue;
-}
-.coll{
-    height: 100px;
-    background-color: blue;
-    color: blue;
-    margin-bottom: 100px;
-}
-.coll1{
-    height: 200px;
-    background-color:blue;
-    color: blue;
-    margin-bottom: 100px;
+ .besh{
+    height: 70px;
+    background-color: rgb(179, 125, 230);
 } 
-.coll2{
-    height: 100px;
-    background-color:blue;
-    color: blue;
+.card-box{
+    height: 70px;
+    background-color: rgb(179, 125, 230);
 }
-.coll3{
-    height: 100px;
-    background-color:red;
-    color: blue;
+.card-text{
+    height: 70px;
+    background-color: rgb(179, 125, 230);
 }
- .coll4{
-    height: 100px;
-    background-color:blue;
-    color: blue;
-}  
